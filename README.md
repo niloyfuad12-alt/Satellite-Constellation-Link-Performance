@@ -88,6 +88,14 @@ reliability and higher-order modulation.
 
 ![BER Comparison](images/BER%20graph.png)
 
+## Key Results
+
+- Modelled a 144-satellite Walker-Star LEO constellation at 950 km altitude.
+- Identified Satellite 24 as the closest visible satellite, approximately 1,806.2 km from the RMIT ground station.
+- Calculated an Eb/N0 of approximately 10.057 dB for the selected downlink.
+- Obtained a theoretical BER of 3.3748 × 10⁻⁶ for 4-PSK and 0.0016552 for 16-QAM.
+- Demonstrated the trade-off between modulation reliability and spectral efficiency.
+
 ## What I Learned
 
 This project strengthened my understanding of the relationship
