@@ -43,7 +43,7 @@ The simulated constellation consisted of:
 - 950 km orbital altitude
 - Walker-Star configuration
 
-![Satellite Constellation](images/constellation.png)
+![3D Satellite Constellation](images/constellation%20visualisation_2.png)
 
 ## Ground Station and Satellite Access
 
@@ -52,14 +52,14 @@ Campus. Satellite visibility was analysed using MATLAB, and visible
 satellites were evaluated according to their azimuth, elevation and
 range.
 
-![Ground Station Access](images/ground_station_access.png)
+![Ground Station Access](images/ground-station%20access.png)
 
 ## Skyplot
 
 A skyplot was generated to visualise the positions of visible
 satellites relative to the ground station.
 
-![Skyplot](images/skyplot.png)
+![Satellite Skyplot](images/skyplot.png)
 
 ## Link Budget Analysis
 
@@ -75,6 +75,9 @@ The analysis included:
 - Signal-to-noise ratio
 - Eb/N0
 
+
+![Link Budget Results](images/link-budget%20results.png)
+
 ## Modulation and BER Analysis
 
 The theoretical BER performance of 4-PSK and 16-QAM was compared
@@ -83,7 +86,7 @@ using MATLAB.
 The results demonstrated the trade-off between communication
 reliability and higher-order modulation.
 
-![BER Comparison](images/ber_comparison.png)
+![BER Comparison](images/BER%20graph.png)
 
 ## What I Learned
 
